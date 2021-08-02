@@ -87,10 +87,13 @@ const main = async()=>{
                 }else{
                     console.log(''); //deja un salto de linea
                     for (let i = 0; i < 10; i++) {
-                        const fecha = historial[i].fecha;
-                        const lugar = historial[i].lugar;
 
-                        console.log(`${fecha.blue} ${lugar.white}`)
+                        if(historial[i] != undefined){
+                            const fecha = historial[i].fecha;
+                            const lugar = historial[i].lugar;
+    
+                            console.log(`${fecha.blue} ${lugar.white}`)
+                        }
                     }
 
                     console.log(''); //deja un salto de linea
