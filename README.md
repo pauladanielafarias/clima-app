@@ -4,7 +4,7 @@
 <br>
 
 
-## :cloud: :sun: Command Line Interface (CLI) app that shows the current weather of a city / Aplicación de Interfaz de Línea de Comandos (CLI) que muestra el clima actual de una ciudad
+## :cloud: :sunny: Command Line Interface (CLI) app that shows the current weather of a city / Aplicación de Interfaz de Línea de Comandos (CLI) que muestra el clima actual de una ciudad
 <img alt="Repo Size" src="https://img.shields.io/github/repo-size/pauladanielafarias/clima-app-node?style=flat&logo=github">  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pauladanielafarias/clima-app-node">
 
 You can choose from the following options / Se puede elegir entre las siguientes opciones:
