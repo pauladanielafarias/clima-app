@@ -1,15 +1,11 @@
 <!--Create Badges on https://pufler.dev/git-badges/ and https://shields.io/category/social-->
 
-<img alt="Repository created date" align="right" src="https://badges.pufler.dev/created/pauladanielafarias/clima-app-node
-?style=social&color=black&logo=github"> <img alt="Repository visits" align="right" src="https://badges.pufler.dev/visits/pauladanielafarias/clima-app-node
-?style=social&color=purple&logo=github"> <a src="https://github.com/pauladanielafarias/?tab=follow"><img alt="GitHub Follow" align="right" src="https://img.shields.io/github/followers/pauladanielafarias?label=Follow&style=social"></a> 
+<img alt="Repository created date" align="right" src="https://badges.pufler.dev/created/pauladanielafarias/clima-app-node?style=social&color=black&logo=github"> <img alt="Repository visits" align="right" src="https://badges.pufler.dev/visits/pauladanielafarias/clima-app-node?style=social&color=purple&logo=github"> <a src="https://github.com/pauladanielafarias/?tab=follow"><img alt="GitHub Follow" align="right" src="https://img.shields.io/github/followers/pauladanielafarias?label=Follow&style=social"></a> 
 <br>
 
 
 ## :cloud: :sun: Command Line Interface (CLI) app that shows the current weather of a city / Aplicación de Interfaz de Línea de Comandos (CLI) que muestra el clima actual de una ciudad
-<img alt="Repo Size" src="https://img.shields.io/github/repo-size/pauladanielafarias/clima-app-node
-?style=flat&logo=github">  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pauladanielafarias/clima-app-node
-">
+<img alt="Repo Size" src="https://img.shields.io/github/repo-size/pauladanielafarias/clima-app-node?style=flat&logo=github">  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pauladanielafarias/clima-app-node">
 
 You can choose from the following options / Se puede elegir entre las siguientes opciones:
 1. Search city / Buscar ciudad
@@ -44,6 +40,5 @@ The app is in Spanish. / La app está en español.
 
 #### :woman_technologist: **Developer:** [Paula Farias](https://linkedin.com/in/paulafarias)
 
-#### :busts_in_silhouette: Contributors: <img alt="Contributors" align="center" src="https://badges.pufler.dev/contributors/pauladanielafarias/clima-app-node
-?size=50&padding=5&bots=true">
+#### :busts_in_silhouette: Contributors: <img alt="Contributors" align="center" src="https://badges.pufler.dev/contributors/pauladanielafarias/clima-app-node?size=50&padding=5&bots=true">
 
